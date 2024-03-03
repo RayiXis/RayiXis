@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there! I'm Jose Raymundo👋
+
+- 🔭 I’m currently working on my studies
+- 🌱 I’m currently learning Web design
 
 <!--
 **RayiXis/RayiXis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
